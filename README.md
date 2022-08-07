@@ -1,4 +1,4 @@
-<img src="https://github.com/crisantogo/crisantogo/blob/main/assets/README_banner.png" width="100%" alt="welcome to my page">
+<img src="https://github.com/ncnapier/README.md/blob/main/assets/github-header-image.png" width="100%" alt="welcome to my page">
 
 <h1 align="center">Hi 👋, I'm Nathaniel</h1>
 <h3 align="center">A full-stack software developer</h3>
